@@ -12,7 +12,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
 BASE_MODEL = os.getenv("BASE_MODEL", "Qwen/Qwen3-0.6B")
-MODEL_REPO_ID = os.getenv("MODEL_REPO_ID", "YOUR_USERNAME/YOUR_LORA_MODEL_REPO")
+MODEL_REPO_ID = os.getenv("MODEL_REPO_ID", "niangmariame513/wolof-assistant-qwen3")
 SYSTEM_PROMPT = os.getenv(
     "SYSTEM_PROMPT",
     "You are a helpful assistant. Answer clearly and concisely.",
