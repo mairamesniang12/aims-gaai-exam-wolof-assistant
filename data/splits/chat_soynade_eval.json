@@ -1,0 +1,727 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBi gnuy tambali wathie, niou guiss ni khol bi thi souf la geuna rafété sakh.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Bi nuy tàmbali wàcci, nu gis ni xool bi ci suuf la gëna rafetee sax."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBi gnuy tambali wathie, niou guiss ni khol bi thi souf la geuna rafété sakh.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Bi nuy tàmbali wàcci, nu gis ni xool bi ci suuf la gëna rafetee sax.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDanouy djéma khol ndakh devoir ou souba bi daniou noudj njaadj ak déet.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Danuy jéema xool ndax devoir u suba bi dañu njuuj njaaj ak déet."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDanouy djéma khol ndakh devoir ou souba bi daniou noudj njaadj ak déet.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Danuy jéema xool ndax devoir u suba bi dañu njuuj njaaj ak déet.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBi Rajiv dougué ba thi biir all bi, mou daldi dadjé ak garab gou doy war.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Bi Rajiv duggee ba ci biir àll bi, mu daal di daje ak garab gu doy waar."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBi Rajiv dougué ba thi biir all bi, mou daldi dadjé ak garab gou doy war.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Bi Rajiv duggee ba ci biir àll bi, mu daal di daje ak garab gu doy waar.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nPoubou khojogue dafay wouté, meun nagnou khawa deugeur touti nguir gnou bagn léne diawalé ak poubou kagnia.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Puubu xojog dafay wuute, mën nañu xawa dëgër tuuti ngir ñu bañ leen jaawale ak puubu kaña."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nPoubou khojogue dafay wouté, meun nagnou khawa deugeur touti nguir gnou bagn léne diawalé ak poubou kagnia.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Puubu xojog dafay wuute, mën nañu xawa dëgër tuuti ngir ñu bañ leen jaawale ak puubu kaña.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKhalatal ci scénario yi lay may nga dan khalat you bakhoul yi ak nga meun kham noy gérer risque yi.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Xalaatal ci senaario yi lay may nga daan xalaat yu baaxul yi ak nga mën xam nooy gerer risk yi."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKhalatal ci scénario yi lay may nga dan khalat you bakhoul yi ak nga meun kham noy gérer risque yi.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Xalaatal ci senaario yi lay may nga daan xalaat yu baaxul yi ak nga mën xam nooy gerer risk yi.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nYenn thi ruset yi daniou yague massé ak diamonoy 1900.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Yenn ci rëset yi dañu yàgg, maase ak jamonoy 1900."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nYenn thi ruset yi daniou yague massé ak diamonoy 1900.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Yenn ci rëset yi dañu yàgg, maase ak jamonoy 1900.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDafa nakharé derét loool té dou mouniou dara.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Dafa naqari deret lool te du muñ dara."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDafa nakharé derét loool té dou mouniou dara.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Dafa naqari deret lool te du muñ dara.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nMaa ngui djouddo ci deuk bou ndaw bou sori loool.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Maa ngi juddoo ci dëkk bu ndaw bu sori lool."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nMaa ngui djouddo ci deuk bou ndaw bou sori loool.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Maa ngi juddoo ci dëkk bu ndaw bu sori lool.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBi fa nitt gni tambalé deuk ak légui def ay junniy att, té civilisations bi fa ndieukka ame thi soudan moy royaume bou kush, mouy ngour gui dane dokhale thi digganté 750 balaa JC ba 350 guinaw JC.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Bi fa nit ñi tàmbalee dëkk ak leegi def ay junniy at, te civilisasioŋ bi fa njëkka am ci Sudan mooy Royaume bu Kush, muy nguur gi daan doxal ci diggante 750 balaa JC ba 350 ginaaw JC."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBi fa nitt gni tambalé deuk ak légui def ay junniy att, té civilisations bi fa ndieukka ame thi soudan moy royaume bou kush, mouy ngour gui dane dokhale thi digganté 750 balaa JC ba 350 guinaw JC.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Bi fa nit ñi tàmbalee dëkk ak leegi def ay junniy at, te civilisasioŋ bi fa njëkka am ci Sudan mooy Royaume bu Kush, muy nguur gi daan doxal ci diggante 750 balaa JC ba 350 ginaaw JC.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDeel faral di taggat sa yaram taggat yaram dina takh sa deret di daw nimou waré fexeel am 30 simili yoy taggat sa yaram mou bagna tar lol biss yi geuna bari thi ayou biss bi\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "* Deel faral di tàggat sa yaram: Tàggat yaram dina tax sa deret di daw nimu waree. Fexeel am 30 simili yooy tàggat sa yaram mu baña tar lool, bis yi gëna bari ci ayu-bis bi."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDeel faral di taggat sa yaram taggat yaram dina takh sa deret di daw nimou waré fexeel am 30 simili yoy taggat sa yaram mou bagna tar lol biss yi geuna bari thi ayou biss bi\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "* Deel faral di tàggat sa yaram: Tàggat yaram dina tax sa deret di daw nimu waree. Fexeel am 30 simili yooy tàggat sa yaram mu baña tar lool, bis yi gëna bari ci ayu-bis bi.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nSou amé lou tourou thi deuru liege li gueune moy nga fomp ko thi nimou geuna gaawé\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Su amee lu tuuru ci dëru liege, li gën mooy nga fomp ko ci nimu gëna gaawe."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nSou amé lou tourou thi deuru liege li gueune moy nga fomp ko thi nimou geuna gaawé\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Su amee lu tuuru ci dëru liege, li gën mooy nga fomp ko ci nimu gëna gaawe.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBougnou soukandiko si li mame yi gueum fébar yi mousiba you yalla yi wathie la nguir mbeugal diam gni.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu ñu sukkandikoo ci li maam yi gëm, feebar yi musiba yu Yàlla yi wàcce la ngir mbugal jaam ñi."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nBougnou soukandiko si li mame yi gueum fébar yi mousiba you yalla yi wathie la nguir mbeugal diam gni.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Bu ñu sukkandikoo ci li maam yi gëm, feebar yi musiba yu Yàlla yi wàcce la ngir mbugal jaam ñi.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKou nek si gnom def fleur, petal ak hob gnou boolé lép té sabab bi wésouna taral kessé.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Ku nekk ci ñoom def flër, petal, ak xob ñu boole lépp te sabab bi weesuna taaral kese."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKou nek si gnom def fleur, petal ak hob gnou boolé lép té sabab bi wésouna taral kessé.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Ku nekk ci ñoom def flër, petal, ak xob ñu boole lépp te sabab bi weesuna taaral kese.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDjiko you bakh yoyou ma dieulé université, dimbeuli nagnou ma thi sama liguey.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Jikko yu baax yooyu ma jëlee universite, dimbali nañu ma ci sama liggéey."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nDjiko you bakh yoyou ma dieulé université, dimbeuli nagnou ma thi sama liguey.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Jikko yu baax yooyu ma jëlee universite, dimbali nañu ma ci sama liggéey.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nHockey taggat yarame la bouy ladj nga ame katane gou bari thi wallou athletisme.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Hockey tàggat yaram la buy laaj nga am kàttan gu bari ci wàllu athletism."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nHockey taggat yarame la bouy ladj nga ame katane gou bari thi wallou athletisme.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Hockey tàggat yaram la buy laaj nga am kàttan gu bari ci wàllu athletism.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKhamni gnou len di dieufandiko moy degg lakou togue, kham nou gnuy safalé togue ak cafka youy wané kou kham ak meun togue.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Xam ni ñu leen di jëfandikoo mooy dégg làkku togg, xam nu ñuy safalee togg ak cafka yuy wane ku xam ak mën togg."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKhamni gnou len di dieufandiko moy degg lakou togue, kham nou gnuy safalé togue ak cafka youy wané kou kham ak meun togue.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Xam ni ñu leen di jëfandikoo mooy dégg làkku togg, xam nu ñuy safalee togg ak cafka yuy wane ku xam ak mën togg.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nNga khamni amna kenen thi biti koula gueuné.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Nga xamni amna keneen ci biti ku la gën."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nNga khamni amna kenen thi biti koula gueuné.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Nga xamni amna keneen ci biti ku la gën.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKhalatal bene deuk bou ndaw si caroline du sud mouy deuk bou nieup khamanté.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Xalaatal benn dëkk bu ndaw ci Caroline du Sud, muy dëkk bu ñépp xamante."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKhalatal bene deuk bou ndaw si caroline du sud mouy deuk bou nieup khamanté.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Xalaatal benn dëkk bu ndaw ci Caroline du Sud, muy dëkk bu ñépp xamante.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nAgent federoo yi amal nagnou yenen sete thi biir floride.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Agent federoo yi amal nañu yeneen seet ci biir Floride."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nAgent federoo yi amal nagnou yenen sete thi biir floride.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Agent federoo yi amal nañu yeneen seet ci biir Floride.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nMama dafa dougal loukhoom ci enveloppe bi, daldi thié guéné ab bataakhal thi nimou ko sobé té bayi thi khél.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Mama dafa dugal luxoom ci envelop bi, daal di ciy génne ab bataaxal ci nimu ko soobe te bàyyi ci xel."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nMama dafa dougal loukhoom ci enveloppe bi, daldi thié guéné ab bataakhal thi nimou ko sobé té bayi thi khél.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Mama dafa dugal luxoom ci envelop bi, daal di ciy génne ab bataaxal ci nimu ko soobe te bàyyi ci xel.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nLima nékhone si magazine yi moy nignou ma meune yobou si beneen addouna, di sopi sama guiss-guiss si addouna bi.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Lima neexoon ci magazine yi mooy niñu ma mëne yóbbu ci beneen àdduna, di soppi sama gis-gis ci àdduna."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nLima nékhone si magazine yi moy nignou ma meune yobou si beneen addouna, di sopi sama guiss-guiss si addouna bi.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Lima neexoon ci magazine yi mooy niñu ma mëne yóbbu ci beneen àdduna, di soppi sama gis-gis ci àdduna.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nAy fooni tang khol you kene khamoul loumouy nourou nio dak you kholou papaam\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Ay fóoni tàng xol yu kenn xamul lumuy nuru, ñoo dàq yu xolu pàppaam."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nAy fooni tang khol you kene khamoul loumouy nourou nio dak you kholou papaam\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Ay fóoni tàng xol yu kenn xamul lumuy nuru, ñoo dàq yu xolu pàppaam.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nHopital yi lou am solo lagnou si wallou khétt diangoro.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Hopitaal yi lu am solo lañu ci wàllu xeet jàngoro."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nHopital yi lou am solo lagnou si wallou khétt diangoro.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Hopitaal yi lu am solo lañu ci wàllu xeet jàngoro.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKevin: Sama hel yeup a ngui thi tambali liguey bou bess.\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Kevin: Sama xel yépp a ngi ci tàmbali liggéey bu bees."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nKevin: Sama hel yeup a ngui thi tambali liguey bou bess.\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Kevin: Sama xel yépp a ngi ci tàmbali liggéey bu bees.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nVelo nek mbir mou taarou, dieug té rafet bindine, peunoome yi bou gnoy daw thi tali beneen mbir la\n</NON_STANDARD>"
+      },
+      {
+        "role": "assistant",
+        "content": "Velo nekk mbir mu taaru, jegg te rafet bindin, pënoom yi bu ñuy daw ci tali beneen mbir la."
+      }
+    ],
+    "metadata": {
+      "source": "soynade",
+      "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+      "category": "orthography",
+      "variables": {
+        "instruction": "Corrige l'orthographe de cette phrase pour l'écrire en wolof standard :\n<NON_STANDARD>\nVelo nek mbir mou taarou, dieug té rafet bindine, peunoome yi bou gnoy daw thi tali beneen mbir la\n</NON_STANDARD>",
+        "input": "orthography",
+        "output": "Velo nekk mbir mu taaru, jegg te rafet bindin, pënoom yi bu ñuy daw ci tali beneen mbir la.",
+        "source": "soynade",
+        "source_detail": "soynade-research/Wolof-Non-Standard-Orthography",
+        "category": "orthography"
+      }
+    }
+  }
+]

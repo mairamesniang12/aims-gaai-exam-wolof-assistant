@@ -1,0 +1,727 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Jubbantil mbind mii:\nNu ne: \"Dóorleen ko lenn [Lu bokk ci nag wi]\". - Noonu la Yàllay dekkalee ñi dee te dana leen won ay kéemaan ndax ngeen xel-lu."
+      },
+      {
+        "role": "assistant",
+        "content": "Mbind mi jub a ngi nii:\nNu ne: \"Dóorléen ko lenn [Lu bokk ci nag wi]\". - Noonu la Yàllay dekkalee ñi dee te da na léen wan ay kéemaan ndàx ngéen xellu."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Jubbantil mbind mii:\nNu ne: \"Dóorleen ko lenn [Lu bokk ci nag wi]\". - Noonu la Yàllay dekkalee ñi dee te dana leen won ay kéemaan ndax ngeen xel-lu.",
+        "input": "language",
+        "output": "Mbind mi jub a ngi nii:\nNu ne: \"Dóorléen ko lenn [Lu bokk ci nag wi]\". - Noonu la Yàllay dekkalee ñi dee te da na léen wan ay kéemaan ndàx ngéen xellu.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Indil péeteg waat yi ci kàddu gii: Sudã lu ëpp benn miliyoŋ u xale toxal na'ñ léen; Darfuur a nga jëm guddi gu bët setagul."
+      },
+      {
+        "role": "assistant",
+        "content": "Waat yi nekk ci kàddu gii di \"Sudã lu ëpp benn miliyoŋ u xale toxal na'ñ léen; Darfuur a nga jëm guddi gu bët setagul.\" ak séen i péete ñoo di:\nSudã: PROPN\nlu: PRON\nëpp: ADJ\nbenn: NUM\nmiliyoŋ: NUM\nu: ADP\nxale: NOUN\ntoxal: VERB\nna: AUX\n'ñ: PRON\nléen: PRON\n;: PUNCT\nDarfuur: PROPN\na: AUX\nnga: AUX\njëm: VERB\nguddi: NOUN\ngu: PRON\nbët: NOUN\nsetagul: ADJ\n.: PUNCT"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Indil péeteg waat yi ci kàddu gii: Sudã lu ëpp benn miliyoŋ u xale toxal na'ñ léen; Darfuur a nga jëm guddi gu bët setagul.",
+        "input": "language",
+        "output": "Waat yi nekk ci kàddu gii di \"Sudã lu ëpp benn miliyoŋ u xale toxal na'ñ léen; Darfuur a nga jëm guddi gu bët setagul.\" ak séen i péete ñoo di:\nSudã: PROPN\nlu: PRON\nëpp: ADJ\nbenn: NUM\nmiliyoŋ: NUM\nu: ADP\nxale: NOUN\ntoxal: VERB\nna: AUX\n'ñ: PRON\nléen: PRON\n;: PUNCT\nDarfuur: PROPN\na: AUX\nnga: AUX\njëm: VERB\nguddi: NOUN\ngu: PRON\nbët: NOUN\nsetagul: ADJ\n.: PUNCT",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Nu ñu'y waññe?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 = benn\n2 = ñaar\n3 = ñatt\n4 = ñent\n5 = juroom\n6 = juroom benn\n7 = juroom ñaar\n8 = juroom ñatt\n9 = juroom ñent\n10 = fukk\n\nLi topp ci fukk lépp ci 1 ba 10 lees ko'y tëgge ba mu des 100 ak 1000. Niral :\n11 = fukk ak benn\n12 = fukk ak ñaar\n20 = ñaar fukk\n60 = juroom benn fukk\n87 = juroom ñatt fukk ak juroom ñaar\n100 = téemeer\n1000 = junni"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Nu ñu'y waññe?",
+        "input": "language",
+        "output": "1 = benn\n2 = ñaar\n3 = ñatt\n4 = ñent\n5 = juroom\n6 = juroom benn\n7 = juroom ñaar\n8 = juroom ñatt\n9 = juroom ñent\n10 = fukk\n\nLi topp ci fukk lépp ci 1 ba 10 lees ko'y tëgge ba mu des 100 ak 1000. Niral :\n11 = fukk ak benn\n12 = fukk ak ñaar\n20 = ñaar fukk\n60 = juroom benn fukk\n87 = juroom ñatt fukk ak juroom ñaar\n100 = téemeer\n1000 = junni",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Bàn bindkat moo bind \"reseñ wu naqar\"; di ab téere bu'y nettli wenn askan wu ndóol ca ndóol gu mag ga ?"
+      },
+      {
+        "role": "assistant",
+        "content": "John Steinbeck"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Bàn bindkat moo bind \"reseñ wu naqar\"; di ab téere bu'y nettli wenn askan wu ndóol ca ndóol gu mag ga ?",
+        "input": "language",
+        "output": "John Steinbeck",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Lan mooy Y en a marre ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ag kuréel la gu sosu ci Senegaal ci saawiye 2011, mu boole ay rapkat, saabalkat, liggéeykat ak i jàngalekat."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Lan mooy Y en a marre ?",
+        "input": "language",
+        "output": "Ag kuréel la gu sosu ci Senegaal ci saawiye 2011, mu boole ay rapkat, saabalkat, liggéeykat ak i jàngalekat.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Beqil ma mbind mii:\nBu ngeen ko deful, te du ngeen ko mën a def mukk, na ngeen ragal safara soo xam ne matt ma koy xamb nit la ak i xeer, te way weddi ya la ñu koy xaaroo."
+      },
+      {
+        "role": "assistant",
+        "content": "Mbind mi jub a ngi nii:\nBu ngéen ko deful, te du ngéen ko man a def mukk, na ngéen ragal safara soo xàm ne matt ma ko'y xamb nit la ak i xeer, te wayweddi ya la ñu ko'y xaaroo."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Beqil ma mbind mii:\nBu ngeen ko deful, te du ngeen ko mën a def mukk, na ngeen ragal safara soo xam ne matt ma koy xamb nit la ak i xeer, te way weddi ya la ñu koy xaaroo.",
+        "input": "language",
+        "output": "Mbind mi jub a ngi nii:\nBu ngéen ko deful, te du ngéen ko man a def mukk, na ngéen ragal safara soo xàm ne matt ma ko'y xamb nit la ak i xeer, te wayweddi ya la ñu ko'y xaaroo.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Fann mooy péeyum réewum Corée du Nord?"
+      },
+      {
+        "role": "assistant",
+        "content": "Péeyum réewum Corée du Nord mu ngi tudd Pyongyang."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Fann mooy péeyum réewum Corée du Nord?",
+        "input": "language",
+        "output": "Péeyum réewum Corée du Nord mu ngi tudd Pyongyang.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Wan fas ngay war?"
+      },
+      {
+        "role": "assistant",
+        "content": "fas wii laay war?"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Wan fas ngay war?",
+        "input": "language",
+        "output": "fas wii laay war?",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Sri Jayawardenapura mooy gëblag man réew?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sri Jayawardenapura mooy gëblag réewum Sri Lanka."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Sri Jayawardenapura mooy gëblag man réew?",
+        "input": "language",
+        "output": "Sri Jayawardenapura mooy gëblag réewum Sri Lanka.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Andorre-la-Vieille mooy gëblag man réew?"
+      },
+      {
+        "role": "assistant",
+        "content": "Andorre-la-Vieille mooy gëblag réewum Andorre."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Andorre-la-Vieille mooy gëblag man réew?",
+        "input": "language",
+        "output": "Andorre-la-Vieille mooy gëblag réewum Andorre.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Gan barug faranŋsiis MLS la Davit Bekkaam moom ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inter Miami."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Gan barug faranŋsiis MLS la Davit Bekkaam moom ?",
+        "input": "language",
+        "output": "Inter Miami.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Ndàx mbind mii jub na?\nÑu topp nag la séytaane ya doon jàng ca nguurug Suleymaan. Weddiwul de, séytaane ya ñoo weddi: Daan nañu jàngal nit ña ag njibar ak la ñu wàcce woon ca ñaari Malaaka ya ca (Baabil) (Haaruut ak Maaruut); te daawuñu jàngal kenn te waxuñu ko ne: \"Nun dey danoo ànd ak sànje: kon book bul weddi de\" ; mu am ñu jàng ci ñoom loo xam ne mën nañu caa téqale jëkkër ak jabaram. Te daawuñu mën a lor kenn ca njibar googule, lu dul ci coobare Yàlla. Te it jàng nañu loo xam ne daf leen di lor te mënuleeen a jariñ. Xam nañu xéll ne ku jënde loolu [weccee ko ak waxi Yàlla] du am benn cër ca àllaaxira. La ñu jaaye seen bakkan bon na! Cëy bu ñu xamoon!"
+      },
+      {
+        "role": "assistant",
+        "content": "Déedet; jubul cocc ba coset. Mbeqi ma a ngii:\nÑu topp nag la séytaane ya doon jàng ca ngùurug Suleymaan. Weddiwul de, séytaane ya ñoo weddi: Daan na ñu jàngal nit ña ag njibar ak la ñu wàccewoon ca ñaar i Malaaka ya ca (Baabil) (Haaruut ak Maaruut); te daawu ñu jàngal kenn te wàxu ñu ko ne: \"Nun dey da noo ànd ak sànje: kon boog bul weddi de\"; mu àm ñu jàng ci ñoom loo xàm ne man na ñu caa téqale jëkkar ak jabaram. Te daawu ñu man a lor kenn ca njibar googule, lu dul ci coobare Yàlla. Te ìt jàng na ñu loo xàm ne da'f léen di lor te manu léen a jàriñ. Xàm na ñu xéll ne ku jënde loolu [weccee ko ak wàx i Yàlla] du àm benn cër ca àllaaxira. La ñu jaaye séen bakkan bon na! Cëy bu ñu xàmoon!"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Ndàx mbind mii jub na?\nÑu topp nag la séytaane ya doon jàng ca nguurug Suleymaan. Weddiwul de, séytaane ya ñoo weddi: Daan nañu jàngal nit ña ag njibar ak la ñu wàcce woon ca ñaari Malaaka ya ca (Baabil) (Haaruut ak Maaruut); te daawuñu jàngal kenn te waxuñu ko ne: \"Nun dey danoo ànd ak sànje: kon book bul weddi de\" ; mu am ñu jàng ci ñoom loo xam ne mën nañu caa téqale jëkkër ak jabaram. Te daawuñu mën a lor kenn ca njibar googule, lu dul ci coobare Yàlla. Te it jàng nañu loo xam ne daf leen di lor te mënuleeen a jariñ. Xam nañu xéll ne ku jënde loolu [weccee ko ak waxi Yàlla] du am benn cër ca àllaaxira. La ñu jaaye seen bakkan bon na! Cëy bu ñu xamoon!",
+        "input": "language",
+        "output": "Déedet; jubul cocc ba coset. Mbeqi ma a ngii:\nÑu topp nag la séytaane ya doon jàng ca ngùurug Suleymaan. Weddiwul de, séytaane ya ñoo weddi: Daan na ñu jàngal nit ña ag njibar ak la ñu wàccewoon ca ñaar i Malaaka ya ca (Baabil) (Haaruut ak Maaruut); te daawu ñu jàngal kenn te wàxu ñu ko ne: \"Nun dey da noo ànd ak sànje: kon boog bul weddi de\"; mu àm ñu jàng ci ñoom loo xàm ne man na ñu caa téqale jëkkar ak jabaram. Te daawu ñu man a lor kenn ca njibar googule, lu dul ci coobare Yàlla. Te ìt jàng na ñu loo xàm ne da'f léen di lor te manu léen a jàriñ. Xàm na ñu xéll ne ku jënde loolu [weccee ko ak wàx i Yàlla] du àm benn cër ca àllaaxira. La ñu jaaye séen bakkan bon na! Cëy bu ñu xàmoon!",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Ndàx mbind mii jub na?\nBu ngeen amee sikki-sàkka ci lii Nu wàcce ci Sunu jaam bi, indileen saar wu mel ni moom [Alxuraan] te sax ñaanleen ndimbal ñi ngeen di jaamu ba jaamuwuleen Yàlla, ndegam dëgg la ci yéen."
+      },
+      {
+        "role": "assistant",
+        "content": "Déedet; jubul cocc ba coset. Mbeqi ma a ngii:\nBu ngéen àmee sikki-sàkka ci lii Nu wàcce ci Sunu jaam bi, indileen saar wu mel ni moom [Alxuraan] te sàx ñaanléen ndimbal ñi ngéen di jaamu ba jaamuwu léen Yàlla, ndegam dëgg la ci yéen."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Ndàx mbind mii jub na?\nBu ngeen amee sikki-sàkka ci lii Nu wàcce ci Sunu jaam bi, indileen saar wu mel ni moom [Alxuraan] te sax ñaanleen ndimbal ñi ngeen di jaamu ba jaamuwuleen Yàlla, ndegam dëgg la ci yéen.",
+        "input": "language",
+        "output": "Déedet; jubul cocc ba coset. Mbeqi ma a ngii:\nBu ngéen àmee sikki-sàkka ci lii Nu wàcce ci Sunu jaam bi, indileen saar wu mel ni moom [Alxuraan] te sàx ñaanléen ndimbal ñi ngéen di jaamu ba jaamuwu léen Yàlla, ndegam dëgg la ci yéen.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Yàn xeet i loy a àm ci Wolof?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wolof àm na 16 loy i maas te ñoo'y: a, à, ã, e, ẽ, é, ë, i, ì, ĩ, o, ó, õ, u, ù, ũ. Ak 21 riiraale: b, c, d, f, g, h, j, k, l, m, n, ŋ, ñ, p, q, r, s, t, w, x, y"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Yàn xeet i loy a àm ci Wolof?",
+        "input": "language",
+        "output": "Wolof àm na 16 loy i maas te ñoo'y: a, à, ã, e, ẽ, é, ë, i, ì, ĩ, o, ó, õ, u, ù, ũ. Ak 21 riiraale: b, c, d, f, g, h, j, k, l, m, n, ŋ, ñ, p, q, r, s, t, w, x, y",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Dacca mooy gëblag man réew?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dacca mooy gëblag réewum Bangladesh."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Dacca mooy gëblag man réew?",
+        "input": "language",
+        "output": "Dacca mooy gëblag réewum Bangladesh.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Ci Man réew la tàkk bu Simpsonŋ nekk ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ostaraali."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Ci Man réew la tàkk bu Simpsonŋ nekk ?",
+        "input": "language",
+        "output": "Ostaraali.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Waxi wolof:"
+      },
+      {
+        "role": "assistant",
+        "content": "Lu toor ci xol, meññ ci kanam"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Waxi wolof:",
+        "input": "language",
+        "output": "Lu toor ci xol, meññ ci kanam",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Fan mooy gëblag réewum Cambodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gëblag réewum Cambodge mu ngi tudd Phnom Penh."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Fan mooy gëblag réewum Cambodge?",
+        "input": "language",
+        "output": "Gëblag réewum Cambodge mu ngi tudd Phnom Penh.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Indil péeteg waat yi ci kàddu gii: Fi nga foog ne fa la réew mi teg Juan Branco du fa."
+      },
+      {
+        "role": "assistant",
+        "content": "Waat yi nekk ci kàddu gii di \"Fi nga foog ne fa la réew mi teg Juan Branco du fa.\" ak séen i péete ñoo di:\nFi: ADV\nnga: PRON\nfoog: VERB\nne: SCONJ\nfa: ADV\nla: AUX\nréew: NOUN\nmi: DET\nteg: VERB\nJuan: PROPN\nBranco: PROPN\ndu: AUX\nfa: ADV\n.: PUNCT"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Indil péeteg waat yi ci kàddu gii: Fi nga foog ne fa la réew mi teg Juan Branco du fa.",
+        "input": "language",
+        "output": "Waat yi nekk ci kàddu gii di \"Fi nga foog ne fa la réew mi teg Juan Branco du fa.\" ak séen i péete ñoo di:\nFi: ADV\nnga: PRON\nfoog: VERB\nne: SCONJ\nfa: ADV\nla: AUX\nréew: NOUN\nmi: DET\nteg: VERB\nJuan: PROPN\nBranco: PROPN\ndu: AUX\nfa: ADV\n.: PUNCT",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Doom"
+      },
+      {
+        "role": "assistant",
+        "content": "Gray"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Doom",
+        "input": "language",
+        "output": "Gray",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Kan moo bind téereb Bescherelle ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lyon Sprague de Camp moo bind téere bi."
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Kan moo bind téereb Bescherelle ?",
+        "input": "language",
+        "output": "Lyon Sprague de Camp moo bind téere bi.",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Fan moy péeyum réwum Autriche"
+      },
+      {
+        "role": "assistant",
+        "content": "Péeyum réwum Autriche mu ngi tudu Vienne"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Fan moy péeyum réwum Autriche",
+        "input": "language",
+        "output": "Péeyum réwum Autriche mu ngi tudu Vienne",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Erevan mooy gëblag  ban réew?"
+      },
+      {
+        "role": "assistant",
+        "content": "Erevan mooy gëblag  réewum Arménie"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Erevan mooy gëblag  ban réew?",
+        "input": "language",
+        "output": "Erevan mooy gëblag  réewum Arménie",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Ci ban kembaar la réwum Canada nékk"
+      },
+      {
+        "role": "assistant",
+        "content": "Réwum Canada mu ngi nékk ci kembaar bi ñuy wakh Amerique"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Ci ban kembaar la réwum Canada nékk",
+        "input": "language",
+        "output": "Réwum Canada mu ngi nékk ci kembaar bi ñuy wakh Amerique",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant specialized in Wolof and Senegalese/African contexts. Answer in clear Wolof. Keep the response useful, factual, and appropriate for the requested category. Do not write hidden reasoning. Never output <think> or </think> tags."
+      },
+      {
+        "role": "user",
+        "content": "Indil péeteg waat yi ci kàddu gii: Ba mu matee sëkk te ñor xomm, [Muusaa] jox Na nu ko àtte ya ak xàm-xàm."
+      },
+      {
+        "role": "assistant",
+        "content": "Waat yi nekk ci kàddu gii di \"Ba mu matee sëkk te ñor xomm, [Muusaa] jox Na nu ko àtte ya ak xàm-xàm.\" ak séen i péete ñoo di:\nBa: SCONJ\nmu: PRON\nmatee: ADJ\nsëkk: ADV\nte: CCONJ\nñor: ADJ\nxomm: ADV\n,: PUNCT\n[: PUNCT\nMuusaa: PROPN\n]: PUNCT\njox: VERB\nNa: AUX\nnu: PRON\nko: PRON\nàtte: NOUN\nya: DET\nak: CCONJ\nxàm-xàm: NOUN\n.: PUNCT"
+      }
+    ],
+    "metadata": {
+      "source": "aya",
+      "source_detail": "CohereLabs/aya_dataset",
+      "category": "language",
+      "variables": {
+        "instruction": "Indil péeteg waat yi ci kàddu gii: Ba mu matee sëkk te ñor xomm, [Muusaa] jox Na nu ko àtte ya ak xàm-xàm.",
+        "input": "language",
+        "output": "Waat yi nekk ci kàddu gii di \"Ba mu matee sëkk te ñor xomm, [Muusaa] jox Na nu ko àtte ya ak xàm-xàm.\" ak séen i péete ñoo di:\nBa: SCONJ\nmu: PRON\nmatee: ADJ\nsëkk: ADV\nte: CCONJ\nñor: ADJ\nxomm: ADV\n,: PUNCT\n[: PUNCT\nMuusaa: PROPN\n]: PUNCT\njox: VERB\nNa: AUX\nnu: PRON\nko: PRON\nàtte: NOUN\nya: DET\nak: CCONJ\nxàm-xàm: NOUN\n.: PUNCT",
+        "source": "aya",
+        "source_detail": "CohereLabs/aya_dataset",
+        "category": "language"
+      }
+    }
+  }
+]
